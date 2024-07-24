@@ -1,2 +1,2 @@
 # odin-recipes
-For this project, I will be building a basic recipe website with multiple pages that will demonstrate efficent and thoughtful usage of HTML tags and functions. I will also learn and demonstrate how to read documentation and do research and reading MDN for various html tags and just how to use google in general.
+For this project, I will be building a basic recipe website with multiple pages that will demonstrate efficent and thoughtful usage of HTML tags and functions. I will also learn and demonstrate how to read documentation and do research and reading MDN for various html tags and just how to use google in general. After completing this project , I would have show good mastery of html.
