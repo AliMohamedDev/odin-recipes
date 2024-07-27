@@ -1,28 +1,33 @@
-img {
-    height: 310px;
-    width: 350px;
+html {
+    font-size: 30px;
 }
 
-.head {
+img {
+    height: 10.375rem;
+    width: 20rem;
+    margin: 0.3rem;
+    border: 0.1em solid black;
+}
+
+h1 {
     color: rgb(8, 40, 222);
-    font-size: 64px;
+    font-size: 2rem;
     font-family: Poppins, sans-serif;
+    text-align: center;
+
 }
 
 .list {
     font-family: Poppins, sans-serif;
 }
 
-h1 {
-    font-size: 50px;
 
-}
 
 
 
 body {
     font-family: Poppins, sans-serif;
-    background-color: #faedcd;
+    background-color: #e4dcc8;
 
 }
 
@@ -32,6 +37,7 @@ h3 {
 }
 
 a {
-    font-size: 24px;
-    color: rgb(8, 40, 222);
+    font-size: 1rem;
+    color: rgb(3, 38, 237);
+
 }
