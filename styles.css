@@ -9,6 +9,7 @@
      width: 550px;
      margin: 10px;
      margin-left: 700px;
+     margin-bottom: 40px;
      border-radius: 20px;
 
 
@@ -32,8 +33,14 @@
      color: rgb(37, 8, 223);
      margin-bottom: 10px;
      font-size: 30px;
+     margin-top: 10px;
+     margin-bottom: 20px;
  }
 
+ p {
+     margin-bottom: 20px;
+     margin-top: 10px;
+ }
 
  .list {
      font-family: Roboto, sans-serif;
@@ -50,7 +57,7 @@
  body {
      font-family: Roboto;
      background-color: #bde0fe;
-     margin-left: 30px;
+     margin-left: 20px;
 
 
  }
@@ -61,7 +68,10 @@
  a {
      color: rgb(3, 38, 237);
      text-decoration: none;
-     margin: auto;
+     display: block;
+     margin-top: 30px;
+     font-size: 30px;
+
 
 
  }
